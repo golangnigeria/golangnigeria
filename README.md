@@ -1,70 +1,64 @@
-<h2 align="left">Hi 👋! I'm Dimkpa Prince Kinikanwo, a <strong>Golang Fullstack Developer</strong> from Port Harcourt, Nigeria</h2>
+<h1 align="center">Hi 👋, I'm Dimkpa Prince Kinikanwo</h1>
+<h3 align="center">Golang Fullstack Developer from Port Harcourt, Nigeria</h3>
 
-###
+<p align="center">
+  <a href="https://twitter.com/nijaDeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="25">
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Fiber">
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
+  <img src="https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Echo">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/HTMX-000000?style=for-the-badge" alt="HTMX">
+  <img src="https://img.shields.io/badge/Templ-00ADD8?style=for-the-badge" alt="Templ">
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
+</p>
+
+#### **Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nijaDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nijaDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=python" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nijaDeveloper&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijaDeveloper&layout=compact&theme=dark&hide_border=true&hide=python" alt="Top Languages" width="45%">
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk2aGxqY3F1d3V0d2V5Z2x4eGJ6dDZ4bWxqZzV1ZGZ1bGJmY3B6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" alt="Go Gopher coding" />
+### 🚀 Current Projects
+- Building scalable microservices with Go and HTMX
+- Exploring modern fullstack architectures with Go backend
+- Contributing to open-source Go projects
 
-###
+---
 
-<div align="left">
-  <strong>🚀 My Tech Stack</strong><br/><br/>
-  
-  **Languages**:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="golang logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+### 📫 Let's Connect
+- Twitter: [@nijaDeveloper](https://twitter.com/nijaDeveloper)
+- Open to collaborations and interesting opportunities
 
-  <br/><br/>
-  
-  **Frameworks**:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height="30" alt="fiber logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiecS9kHFTXD-PiFNw55MXq2CKfTJSqQh_MTHbIjXHKFGyQBH4BJXDunrBJ_Nnpbs3eyw&usqp=CAU" height="30" alt="ap logo" />
-  
-  <br/><br/>
-  
-  **Databases & Tools**:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" />
-</div>
-
-###
-
-<div align="left">
-  <strong>🌐 Let's Connect</strong><br/><br/>
-  <a href="https://twitter.com/nijaDeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<details>
-  <summary>📈 <strong>My Coding Journey</strong></summary>
-  <br/>
-  <img src="https://raw.githubusercontent.com/nijaDeveloper/nijaDeveloper/output/snake.svg" alt="Snake animation" />
-</details>
-
-###
-
-💡 **Fun Fact**: When I'm not wrangling Go routines, I'm probably exploring new ways to make systems scream with performance! 🚀
-
-🔧 **Current Obsession**: Building fullstack apps with Go + HTMX + Templ
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nijaDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="nijaDeveloper">
+</p>
